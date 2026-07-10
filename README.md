@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Dua%20Amir&fontSize=50&fontColor=1a1a2e&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20I%20%40%20Azm%20Development%20%7C%20Odoo%2FPython&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Dua%20Amir&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20I%20%40%20Azm%20Development%20%7C%20Odoo%2FPython&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://github.com/duaamir-azm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Customizing+enterprise-grade+Odoo+16+ERP;Engineering+core+business+logic+in+Python;Optimizing+database-heavy+backend+operations;Building+AI-driven+internal+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Customizing+enterprise-grade+Odoo+16+ERP;Engineering+core+business+logic+in+Python;Optimizing+database-heavy+backend+operations;Building+AI-driven+internal+tools" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duaamir-azm&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/duaamir-azm?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=duaamir-azm&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/duaamir-azm?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github" />
 </p>
 
 ---
@@ -19,19 +19,19 @@
 
 ```typescript
 const duaAmirAzm = {
-  title: "Software Engineer I (Odoo/Python) — Azm Development",
+  title: "Software Engineer I (Odoo/Python), Azm Development",
   stack: {
     erp: ["Odoo 16", "Python"],
     languagesBackend: ["Python (Django)", "SQL (MySQL)"],
     aiData: ["Machine Learning", "Feature Engineering"],
-    toolsCloud: ["Git/GitHub Actions", "Jira", "Trello"],
+    toolsCloud: ["Git/GitHub Actions", "Jira"],
   },
   launchedProjects: ["Odoo16", "CaseEase", "employee-performance-review-g2"],
   certifications: [
     "ChatGPT Prompt Engineering for Developers – DeepLearning.AI",
     "Foundations of Project Management – Google",
   ],
-  status: "Customizing enterprise-grade Odoo 16 ERP for production clients — Onsite, Jun 2025–Present",
+  status: "Customizing enterprise-grade Odoo 16 ERP for production clients, Onsite, Jun 2025–Present",
   openTo: ["Cross-team engineering collaboration", "Backend architecture challenges"],
 };
 ```
@@ -41,13 +41,14 @@ const duaAmirAzm = {
 ### 🚀 Featured Projects
 
 #### ⚙️ Odoo16: Company-Wide ERP System
+
 Customized enterprise-grade Odoo 16 ERP solution currently running as the full ERP system for the whole company, engineered custom core modules and system-wide business logic in Python. *(Collaborator on this repo, private)*
 
-| Layer | Technology |
-|---|---|
-| ERP Core | Odoo 16 |
-| Backend Logic | Python |
-| Database | Optimized relational operations |
+| Layer         | Technology                      |
+| ------------- | ------------------------------- |
+| ERP Core      | Odoo 16                         |
+| Backend Logic | Python                          |
+| Database      | Optimized relational operations |
 
 🔒 Private Repo
 
@@ -57,9 +58,9 @@ Customized enterprise-grade Odoo 16 ERP solution currently running as the full E
 
 Relational system for secure, organizational case tracking built with Django.
 
-| Layer | Technology |
-|---|---|
-| Backend | Python (Django) |
+| Layer    | Technology       |
+| -------- | ---------------- |
+| Backend  | Python (Django)  |
 | Database | Relational (SQL) |
 
 🔗 [Code](https://github.com/duaamir-azm/CaseEase)
@@ -67,12 +68,13 @@ Relational system for secure, organizational case tracking built with Django.
 ---
 
 #### 🤖 employee-performance-review-g2: AI-Driven Performance Review Tool
+
 An AI-related internal team project built for employee performance review at Azm Development. *(Private repository)*
 
-| Layer | Technology |
-|---|---|
-| AI | Machine Learning components |
-| Backend | Python |
+| Layer   | Technology                  |
+| ------- | --------------------------- |
+| AI      | Machine Learning components |
+| Backend | Python                      |
 
 🔒 Private Repo
 
@@ -97,18 +99,19 @@ An AI-related internal team project built for employee performance review at Azm
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=duaamir-azm&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+  <img src="https://streak-stats.demolab.com?user=duaamir-azm&theme=tokyonight&border=6d28d9&ring=6d28d9&fire=C4B5FD&currStreakLabel=C4B5FD" />
 </p>
 
+---
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duaamir-azm&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duaamir-azm&theme=react-dark&color=C4B5FD&line=6d28d9&point=ffffff&bg_color=0d1117" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=twinkling" />
 </p>
