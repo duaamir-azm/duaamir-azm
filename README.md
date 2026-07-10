@@ -40,8 +40,8 @@ const duaAmirAzm = {
 
 ### 🚀 Featured Projects
 
-#### ⚙️ Odoo16 — Company-Wide ERP System
-Customized enterprise-grade Odoo 16 ERP solution currently running as the full ERP system for the whole company — engineered custom core modules and system-wide business logic in Python. *(Collaborator on this repo, private)*
+#### ⚙️ Odoo16: Company-Wide ERP System
+Customized enterprise-grade Odoo 16 ERP solution currently running as the full ERP system for the whole company, engineered custom core modules and system-wide business logic in Python. *(Collaborator on this repo, private)*
 
 | Layer | Technology |
 |---|---|
@@ -53,10 +53,7 @@ Customized enterprise-grade Odoo 16 ERP solution currently running as the full E
 
 ---
 
-#### 📁 CaseEase — Case Management System
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=duaamir-azm&repo=CaseEase&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</p>
+#### 📁 CaseEase: Case Management System
 
 Relational system for secure, organizational case tracking built with Django.
 
@@ -100,19 +97,9 @@ An AI-related internal team project built for employee performance review at Azm
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duaamir-azm&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaamir-azm&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=duaamir-azm&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duaamir-azm&theme=nord&no-frame=true&no-bg=true&column=7" />
-</p>
 
 ### 📈 Contribution Activity
 
