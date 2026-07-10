@@ -49,7 +49,7 @@ Customized enterprise-grade Odoo 16 ERP solution currently running as the full E
 | Backend Logic | Python |
 | Database | Optimized relational operations |
 
-🔒 Private Repo — Code access on request
+🔒 Private Repo
 
 ---
 
@@ -69,7 +69,7 @@ Relational system for secure, organizational case tracking built with Django.
 
 ---
 
-#### 🤖 employee-performance-review-g2 — AI-Driven Performance Review Tool
+#### 🤖 employee-performance-review-g2: AI-Driven Performance Review Tool
 An AI-related internal team project built for employee performance review at Azm Development. *(Private repository)*
 
 | Layer | Technology |
@@ -77,7 +77,7 @@ An AI-related internal team project built for employee performance review at Azm
 | AI | Machine Learning components |
 | Backend | Python |
 
-🔒 Private Repo — Code access on request
+🔒 Private Repo
 
 ---
 
